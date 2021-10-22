@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Tablet" size="10.000000 6.424552" />
+    <ImageTarget name="CamaraWeb" size="10.000000 17.034246" />
+    <ImageTarget name="Auriculares" size="10.000000 10.948633" />
+  </Tracking>
+</QCARConfig>
